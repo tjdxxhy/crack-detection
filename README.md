@@ -3,6 +3,8 @@ This is the crack data set used in the article "Automated Bridge Crack Detection
 
 If you want to use this data set, we recommend that you quote our paper.
 
+Paper link:https://www.mdpi.com/2076-3417/9/14/2867
+
 Dataset introduction:
 A total of 4,856 training pictures and 1213 test pictures are included, with a resolution of 224*224.
 
